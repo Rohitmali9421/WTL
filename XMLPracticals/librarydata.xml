@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="library.xsl"?>
+<library>
+    <book>
+        <title category="CSE">Introduction to Programming</title>
+        <author>D.M.Dhamdher</author>
+        <publication>Tech Press</publication>
+        <price>250</price>
+    </book>
+    <book>
+        <title category="CSE">Advanced Algorithms</title>
+        <author>Ankita Agarwal</author>
+        <publication>Tech Press</publication>
+        <price>500</price>
+    </book>
+    <book>
+        <title category="CSE">Data Structures and Applications</title>
+        <author>Mina Mcharty</author>
+        <publication>Data Tech</publication>
+        <price>150</price>
+    </book>
+    <book>
+        <title category="CSE">Computer Networks</title>
+        <author>Jyoti Bhosle</author>
+        <publication>Network Press</publication>
+        <price>175</price>
+    </book>
+    <book>
+        <title category="CSE">Operating Systems Concepts</title>
+        <author>David Smith</author>
+        <publication>System Publishers</publication>
+        <price>125</price>
+    </book>
+    <book>
+        <title category="AI">Machine Learning Basics</title>
+        <author>Ali Baber</author>
+        <publication>AI Books</publication>
+        <price>200</price>
+    </book>
+    <book>
+        <title category="CSE">Database Management Systems</title>
+        <author>Darshan Deshmukh</author>
+        <publication>Data Press</publication>
+        <price>100</price>
+    </book>
+    <book>
+        <title category="AI">Introduction to Artificial Intelligence</title>
+        <author>George Adams</author>
+        <publication>AI Press</publication>
+        <price>350</price>
+    </book>
+    <book>
+        <title category="CSE">Software Engineering Principles</title>
+        <author>Susan Clark</author>
+        <publication>Software Press</publication>
+        <price>220</price>
+    </book>
+    <book>
+        <title category="CSE">Java Programming</title>
+        <author>Henry Miller</author>
+        <publication>Programming Books</publication>
+        <price>180</price>
+    </book>
+    <book>
+        <title category="CSE">Web Development with HTML5</title>
+        <author>Laura King</author>
+        <publication>Web Tech</publication>
+        <price>140</price>
+    </book>
+    <book>
+        <title category="CSE">Python for Beginners</title>
+        <author>Robert Lee</author>
+        <publication>Tech Books</publication>
+        <price>99</price>
+    </book>
+    <book>
+        <title category="DS">Data Science with Python</title>
+        <author>Linda Scott</author>
+        <publication>Data Science Press</publication>
+        <price>80</price>
+    </book>
+    <book>
+        <title category="CSE">Computer Architecture</title>
+        <author>John Harris</author>
+        <publication>Tech Press</publication>
+        <price>50</price>
+    </book>
+    <book>
+        <title category="DS">Discrete Mathematics</title>
+        <author>Michael Walker</author>
+        <publication>Math Press</publication>
+        <price>87</price>
+    </book>
+    <book>
+        <title category="CS">Cybersecurity Fundamentals</title>
+        <author>Rachel Nelson</author>
+        <publication>Security Books</publication>
+        <price>240</price>
+    </book>
+    <book>
+        <title category="CSE">Cloud Computing</title>
+        <author>Brian Martinez</author>
+        <publication>Cloud Press</publication>
+        <price>20</price>
+    </book>
+    <book>
+        <title category="IOT">Blockchain and Cryptography</title>
+        <author>Daniel Garcia</author>
+        <publication>Crypto Tech</publication>
+        <price>69</price>
+    </book>
+    <book>
+        <title category="IOT">Ethical Hacking</title>
+        <author>Amy Robinson</author>
+        <publication>Security Press</publication>
+        <price>74</price>
+    </book>
+    <book>
+        <title category="CSE">Virtual Reality and Augmented Reality</title>
+        <author>Victor Wright</author>
+        <publication>Tech Vision</publication>
+        <price>300</price>
+    </book>
+</library>

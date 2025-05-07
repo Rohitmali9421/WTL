@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="employees.xsl"?>
+<employees>
+    <employee>
+        <id>1</id>
+        <name>Vaishnavi Kamate</name>
+        <position>Manager</position>
+        <salary>75000</salary>
+        <department>HR</department>
+    </employee>
+    <employee>
+        <id>2</id>
+        <name>Smita Desai</name>
+        <position>Developer</position>
+        <salary>90000</salary>
+        <department>IT</department>
+    </employee>
+    <employee>
+        <id>3</id>
+        <name>Pratik Patil</name>
+        <position>Developer</position>
+        <salary>85000</salary>
+        <department>IT</department>
+    </employee>
+    <employee>
+        <id>4</id>
+        <name>Swaraj Shinde</name>
+        <position>Designer</position>
+        <salary>65000</salary>
+        <department>Marketing</department>
+    </employee>
+</employees>

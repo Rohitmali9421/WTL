@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="if.xsl"?>
+
+<class>
+    <employee id="001">
+        <firstname>rohit</firstname>
+        <lastname>Mali</lastname>
+        <nickname>rohit</nickname>
+        <salary>30000</salary>
+    </employee>
+    <employee id="024">
+        <firstname>Ram</firstname>
+        <lastname>Gavade</lastname>
+        <nickname>ram</nickname>
+        <salary>25000</salary>
+    </employee>
+    <employee id="056">
+        <firstname>sahil</firstname>
+        <lastname>Chougule</lastname>
+        <nickname>sahil</nickname>
+        <salary>10000</salary>
+    </employee>
+    <employee id="057">
+        <firstname>sunil</firstname>
+        <lastname>Mali</lastname>
+        <nickname>sunil</nickname>
+        <salary>51000</salary>
+    </employee>
+     <employee id="058">
+        <firstname>Anil</firstname>
+        <lastname>Kore</lastname>
+        <nickname>anil</nickname>
+        <salary>200000</salary>
+    </employee>
+</class>
